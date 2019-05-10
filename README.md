@@ -14,11 +14,10 @@ Number and name of feature: Database Migration
 
 Estimate of time needed to complete: 1:00
 
-Start time: _____
+Start time: 9:50
+Finish time: 10:25
 
-Finish time: _____
-
-Actual time needed to complete: _____
+Actual time needed to complete: 0:35
 
 
 
