@@ -4,9 +4,9 @@ Estimate of time needed to complete: 1:00
 
 Start time: 8:45
 
-Finish time: _____
+Finish time: 9:50
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1:05
 
 
 
